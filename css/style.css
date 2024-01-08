@@ -1,0 +1,22 @@
+video{
+    margin: auto;
+}
+div{
+    text-align: center;
+}
+button{
+    display: inline-block;
+    padding: 3px 5px;
+}
+video::-webkit-media-controls {
+    display:none !important;
+  }
+
+
+  .text  span{
+   font-weight: bolder;
+   margin-right: 20px;
+  }
+  .text  div{
+    margin-top: 20px;
+   }
